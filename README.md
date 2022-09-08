@@ -14,7 +14,7 @@
 <img src="img/Get.png">
 
 ### GetById
-<img src="img/GetById.png">
+<img src="img/GetByID.png">
 
 ### Update
 <img src="img/Put.png">
